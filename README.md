@@ -1,4 +1,4 @@
-This project is a great way to have an understanding of an exciting usecase of smart Contracts: DeFi
+This project is a great way to have an understanding of DeFi
 
 So in this project i will be:
 
